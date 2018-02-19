@@ -1,12 +1,10 @@
 ## spring-boot-aws-dynamo-db-example
---
 
 Hi, I created this as an example to understand how does Amazon Dynamo DB works.
 
 Nothing special.
 
 ### How to
---
 1. Create an AWS Account: [Here][aws-free-link]
 2. Create a DynamoDB table in US_WEST_2 (or change region in [AppConfiguration.java][app_configuration_file])
 3. Run with gradle: `./gradlew bootRun`
