@@ -26,3 +26,5 @@ out/
 hs_err_pid*
 
 .gradle/
+
+application-secret.properties
